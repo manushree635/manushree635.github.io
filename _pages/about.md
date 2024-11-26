@@ -7,7 +7,7 @@ description:
 
 profile:
   align: right
-  image: profile_pic_4.jpg
+  image: profile_pic_manu.jpeg
   # address: >
   #   <p>555 your office number</p>
   #   <p>123 your address street</p>
