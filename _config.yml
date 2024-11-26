@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Manushree
 middle_name:
 last_name: Vasu
-email: mukul18khanna@gmail.com
+email: manushree635@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website homepage of Mukul Khanna.
+  Personal website homepage of Manushree Vasu.
 # footer_text: >
 #   <a href="https://github.com/alshedivat/al-folio">[Theme]</a>.
 # footer_text: >
@@ -57,7 +57,7 @@ cv_link: https://drive.google.com/file/d/1k-IuSb28vQODefWbdPTxTg8jM0aPGzXf/view?
 gitlab_username: # your GitLab user name
 twitter_username: # mkulkhanna # your Twitter handle
 youtube_channel_link: https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg
-linkedin_username: mukul-khanna # your LinkedIn user name
+linkedin_username: v-manushree # your LinkedIn user name
 scholar_userid: kWAlOAkAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # mukulkhanna # your Medium username
