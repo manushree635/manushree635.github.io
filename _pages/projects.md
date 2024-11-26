@@ -11,7 +11,10 @@ horizontal: true
 - ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.adobe.com/federal/assets/svgs/adobe-logo.svg" width="50px" style="margin:15px" align="right">
   
 [Jun 2024 - Aug 2024]
+
 Advisor: [Balaji Krishnamurthy](https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en)
+
+
 Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
 
 ---
@@ -49,8 +52,10 @@ Worked on developing a tool to evaluate instruction and user intent following ca
 - ##### Research Intern -- <span style="font-weight:400">[Artificial Intelligence and Robotics Lab](https://aero.iisc.ac.in/people/suresh-sundaram/)</span>, IISc Bangalore <img src="https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg" width="75px" align="right" style="margin:15px">
   
   [Sep 2021 - Jun 2022]
+  
 
   Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
+
   
  Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
 
