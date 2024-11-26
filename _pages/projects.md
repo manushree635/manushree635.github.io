@@ -18,7 +18,7 @@ horizontal: true
 
 - ##### Graduate Student Researcher -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
-  [Aug 2022 - Present]
+  [Aug 2023 - Present]
   
   Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
 
@@ -28,19 +28,13 @@ horizontal: true
 
 ---
 
-- ##### Research Intern -- <span style="font-weight:400">[CVMLP Lab](https://mlp.cc.gatech.edu/)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
+- ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
   
-  [Apr 2021 - Jul 2022]
+  [Jun 2022 - Aug 2022]
   
-  Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/) 
+  Advisor: [Dr. Diptikalyan Saha](https://scholar.google.com/citations?hl=en&user=epwtlHgAAAAJ) 
 
-  Studying the impact of noise in indoor localization on learnt scene memory representations and downstream question answering performance of embodied assistants.
-
-  - [`Episodic Memory Question Answering`](https://samyak-268.github.io/emqa/)
-
-    *Accepted at CVPR 2022!*
-
-    <!-- <img src="{{ site.baseurl }}/assets/img/emqa_teaser.png" width="70%"> -->
+  Worked on interpretability repair of ML models and porting explanations from a targel model
 
 ---
 - ##### Research Fellow -- <span style="font-weight:400">[Robotics Research Center](https://robotics.iiit.ac.in)</span>, IIIT Hyderabad <img src="https://robotics.iiit.ac.in//images/logopic/rrc_logo.png" width="75px" align="right" style="margin:15px">
