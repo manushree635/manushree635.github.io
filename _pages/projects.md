@@ -10,9 +10,9 @@ horizontal: true
 
 - ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fadobe-logo%2F&psig=AOvVaw0ujkRhkcH_OdOSClglHwRG&ust=1732743748611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjL-Yr8-okDFQAAAAAdAAAAABAJ" width="50px" style="margin:15px" align="right">
   
-  [Jun 2024 - Aug 2024]
-  
- Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
+[Jun 2024 - Aug 2024]
+Advisor: [Balaji Krishnamurthy](https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en)
+Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
 
 ---
 
@@ -25,6 +25,14 @@ horizontal: true
 
   Working on mulitmodal LLMs to integrate images, videos, audio and text.
 
+
+---
+- ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
+  
+  [Feb 2023 - Jun 2023]
+
+
+  Developed the voice cloning module for the lip-sync module, which involves leveraging text-to-speech synthesis techniques across six languages and improvised existing architectures for lip-sync generation by synthesizing neutral expression videos.
 
 ---
 
@@ -44,17 +52,10 @@ horizontal: true
   Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
   
  Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
- 
----
-
-- ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
-  
-  [Feb 2023 - Jun 2023]
-
-
-  Developed the voice cloning module for the lip-sync module, which involves leveraging text-to-speech synthesis techniques across six languages and improvised existing architectures for lip-sync generation by synthesizing neutral expression videos.
 
 ---
+
+
 <!-- - ##### Technical Writer and Editor -- <span style="font-weight:400">[ScoutAPM](http://scoutapm.com) </span><img src="https://assets.scoutapm.com/assets/public/scout_logo-f2ab3019302500d22b77f24685298b91e8b1fd4778ba5f67368cde418476f513.png" width="80px" align="right" style="margin:15px">
   
   [Oct 2019 - Present]
