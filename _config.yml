@@ -3,12 +3,12 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Manushree
+first_name: Mukul
 middle_name:
-last_name: Vasu
-email: manushree635@gmail.com
+last_name: Khanna
+email: mukul18khanna@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website homepage of Manushree Vasu.
+  Personal website homepage of Mukul Khanna.
 # footer_text: >
 #   <a href="https://github.com/alshedivat/al-folio">[Theme]</a>.
 # footer_text: >
@@ -52,12 +52,12 @@ og_image: profile_pic.png # The site-wide (default for all links) Open Graph pre
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: manushree635 # your GitHub user name
+github_username: # mukulkhanna # your GitHub user name
 cv_link: https://drive.google.com/file/d/1k-IuSb28vQODefWbdPTxTg8jM0aPGzXf/view?usp=sharing
 gitlab_username: # your GitLab user name
 twitter_username: # mkulkhanna # your Twitter handle
 youtube_channel_link: https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg
-linkedin_username: v-manushree # your LinkedIn user name
+linkedin_username: mukul-khanna # your LinkedIn user name
 scholar_userid: kWAlOAkAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # mukulkhanna # your Medium username
@@ -89,7 +89,7 @@ pagination:
   enabled: true
 
 # Comments
-disqus_shortname: manushree635 # put your disqus shortname
+disqus_shortname: mukulkhanna # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
