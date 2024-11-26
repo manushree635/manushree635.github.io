@@ -27,7 +27,7 @@ Worked on developing a tool to evaluate instruction and user intent following ca
 
 
 ---
-- ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
+- ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://visualdub.in/svg/main-logo.svg" width="60px" align="right" style="margin:15px">
   
   [Feb 2023 - Jun 2023]
 
