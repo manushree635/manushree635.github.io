@@ -8,7 +8,7 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-- ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fadobe-logo%2F&psig=AOvVaw0ujkRhkcH_OdOSClglHwRG&ust=1732743748611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjL-Yr8-okDFQAAAAAdAAAAABAJ" width="50px" style="margin:15px" align="right">
+- ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.adobe.com/federal/assets/svgs/adobe-logo.svg" width="50px" style="margin:15px" align="right">
   
 [Jun 2024 - Aug 2024]
 Advisor: [Balaji Krishnamurthy](https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en)
@@ -36,7 +36,7 @@ Worked on developing a tool to evaluate instruction and user intent following ca
 
 ---
 
-- ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
+- ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://research.ibm.com/_next/static/media/IBM-8bar-logo--h23.8bbea713.svg" width="70px" style="margin:15px" align="right">
   
   [Jun 2022 - Aug 2022]
   
@@ -45,7 +45,8 @@ Worked on developing a tool to evaluate instruction and user intent following ca
   Worked on interpretability repair of ML models and porting explanations from a targel model
 
 ---
-- ##### Research Intern -- <span style="font-weight:400">[Artificial Intelligence and Robotics Lab](https://aero.iisc.ac.in/people/suresh-sundaram/)</span>, IISc Bangalore <img src="https://robotics.iiit.ac.in//images/logopic/rrc_logo.png" width="75px" align="right" style="margin:15px">
+
+- ##### Research Intern -- <span style="font-weight:400">[Artificial Intelligence and Robotics Lab](https://aero.iisc.ac.in/people/suresh-sundaram/)</span>, IISc Bangalore <img src="https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg" width="75px" align="right" style="margin:15px">
   
   [Sep 2021 - Jun 2022]
 
