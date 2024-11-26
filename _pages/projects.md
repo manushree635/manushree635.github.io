@@ -18,9 +18,14 @@ horizontal: true
 
 - ##### Graduate Student Researcher -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
-  [Aug 2022 - Present] | Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
+  [Aug 2022 - Present]
+  
+  Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
+
 
   Working on mulitmodal LLMs to integrate images, videos, audio and text.
+
+
 ---
 
 - ##### Research Intern -- <span style="font-weight:400">[CVMLP Lab](https://mlp.cc.gatech.edu/)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
