@@ -8,27 +8,21 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-- ##### ML Intern -- <span style="font-weight:400">[Apple](https://www.apple.com)</span> <img src="https://cdn-icons-png.flaticon.com/256/0/747.png" width="50px" style="margin:15px" align="right">
+- ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fadobe-logo%2F&psig=AOvVaw0ujkRhkcH_OdOSClglHwRG&ust=1732743748611000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjL-Yr8-okDFQAAAAAdAAAAABAJ" width="50px" style="margin:15px" align="right">
   
-  [Jan 2024 - Aug 2024]
+  [Jun 2024 - Aug 2024]
   
-  Working in the Vision Products Group (VPG) on computer vision for AR/VR applications.
+ Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
 
 ---
 
-- ##### Graduate Research Assistant -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
+- ##### Graduate Student Researcher -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
   [Aug 2022 - Present]
   
-  Advisor: [Dhruv Batra](https://www.cc.gatech.edu/~dbatra/)
+  Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
 
-  PIs: [Manolis Savva](https://msavva.github.io/), [Angel Chang](https://angelxuanchang.github.io/)
-
-  Continuing research at Prof. Batra's lab on visual, embodied agents.
-
-  - [`Habitat Synthetic Scenes Dataset: An Analysis of 3D Scene Scale and Realism Tradeoffs for ObjectGoal Navigation`](https://3dlg-hcvc.github.io/hssd)
-  - [`HomeRobot: Open Vocab Mobile Manipulation`](https://ovmm.github.io/)
-
+  Working on mulitmodal LLMs to integrate images, videos, audio and text.
 ---
 
 - ##### Research Intern -- <span style="font-weight:400">[CVMLP Lab](https://mlp.cc.gatech.edu/)</span> <img src="https://www.cc.gatech.edu/~parikh/static/img/lab/vil.png" width="70px" style="margin:15px" align="right">
