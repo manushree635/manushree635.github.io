@@ -44,6 +44,7 @@ horizontal: true
   Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
   
  Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
+ 
 ---
 
 - ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
