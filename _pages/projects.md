@@ -37,26 +37,24 @@ horizontal: true
   Worked on interpretability repair of ML models and porting explanations from a targel model
 
 ---
-- ##### Research Fellow -- <span style="font-weight:400">[Robotics Research Center](https://robotics.iiit.ac.in)</span>, IIIT Hyderabad <img src="https://robotics.iiit.ac.in//images/logopic/rrc_logo.png" width="75px" align="right" style="margin:15px">
+- ##### Research Intern -- <span style="font-weight:400">[Artificial Intelligence and Robotics Lab](https://aero.iisc.ac.in/people/suresh-sundaram/)</span>, IISc Bangalore <img src="https://robotics.iiit.ac.in//images/logopic/rrc_logo.png" width="75px" align="right" style="margin:15px">
   
-  [Jan 2020 - Mar 2021]
+  [Sep 2021 - Jun 2022]
 
-  Advisor: [Prof. K. Madhava Krishna](https://www.iiit.ac.in/people/faculty/mkrishna/)
+  Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
   
-  Worked on building facade [plane segmentation](https://www.scitepress.org/Papers/2021/102084/102084.pdf) and [surface normal estimation](/building-facade-normal-estimation-crv)  for 3D reconstruction from drone-view images using deep learning and geometrical methods.
-
+ Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
 ---
 
-- ##### Research Intern -- <span style="font-weight:400">[Vision Lab](http://www.shanmuga.people.iitgn.ac.in/team.html)</span>, IIT Gandhinagar<img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
+- ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/IIT_Gandhinagar_Logo.svg/1200px-IIT_Gandhinagar_Logo.svg.png" width="60px" align="right" style="margin:15px">
   
-  [Feb 2019 - Jan 2020]
+  [Feb 2023 - Jun 2023]
 
-  Advisor: [Prof. Shanmuganathan Raman](http://www.shanmuga.people.iitgn.ac.in/)
-  
-  Worked on [HDR image reconstruction](https://github.com/mukulkhanna/fhdr) from single exposure LDR image (sequences) using Deep Learning, and [HDRSloMo](https://drive.google.com/file/d/1KmxXKom4SEnKaMvA5bA9g5IGls9zLAPL/view?usp=sharing): Deep Weakly-Supervised High Frame-rate HDR Video Generation (manuscript in progress).
+
+  Developed the voice cloning module for the lip-sync module, which involves leveraging text-to-speech synthesis techniques across six languages and improvised existing architectures for lip-sync generation by synthesizing neutral expression videos.
 
 ---
-- ##### Technical Writer and Editor -- <span style="font-weight:400">[ScoutAPM](http://scoutapm.com) </span><img src="https://assets.scoutapm.com/assets/public/scout_logo-f2ab3019302500d22b77f24685298b91e8b1fd4778ba5f67368cde418476f513.png" width="80px" align="right" style="margin:15px">
+<!-- - ##### Technical Writer and Editor -- <span style="font-weight:400">[ScoutAPM](http://scoutapm.com) </span><img src="https://assets.scoutapm.com/assets/public/scout_logo-f2ab3019302500d22b77f24685298b91e8b1fd4778ba5f67368cde418476f513.png" width="80px" align="right" style="margin:15px">
   
   [Oct 2019 - Present]
 
@@ -82,4 +80,4 @@ horizontal: true
   Advisor: Prof. [Annapurani Panaiyappan](https://www.srmist.edu.in/engineering/dept-cse/faculty/drannapurani-panaiyappan-k)
 
   - Developed the vehicle's [software stack](https://github.com/srmauvsoftware), including it's control and navigation systems and image processing modules using ROS.
-  - Also developed an [underwater simulation environment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kWAlOAkAAAAJ&citation_for_view=kWAlOAkAAAAJ:u5HHmVD_uO8C) using ROS and Unity-3D for testing.
+  - Also developed an [underwater simulation environment](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=kWAlOAkAAAAJ&citation_for_view=kWAlOAkAAAAJ:u5HHmVD_uO8C) using ROS and Unity-3D for testing. -->
