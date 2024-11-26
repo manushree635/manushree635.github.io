@@ -53,12 +53,12 @@ og_image: profile_pic.png # The site-wide (default for all links) Open Graph pre
 # -----------------------------------------------------------------------------
 
 github_username: # mukulkhanna # your GitHub user name
-cv_link: https://drive.google.com/file/d/1k-IuSb28vQODefWbdPTxTg8jM0aPGzXf/view?usp=sharing
-gitlab_username: # your GitLab user name
+cv_link: https://drive.google.com/file/d/17qWwEbQio8uj_DQbC74FXFbTVp2XoXse/view?usp=sharing
+gitlab_username: manushree635 # your GitLab user name
 twitter_username: # mkulkhanna # your Twitter handle
-youtube_channel_link: https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg
+youtube_channel_link: #https://www.youtube.com/channel/UC66w1T4oMv66Jn1LR5CW2yg
 linkedin_username: v-manushree # your LinkedIn user name
-scholar_userid: kWAlOAkAAAAJ # your Google Scholar ID
+scholar_userid: PdDL2EAAAAJ # your Google Scholar ID
 orcid_id: # your ORCID ID
 medium_username: # mukulkhanna # your Medium username
 quora_username: # your Quora username
@@ -81,15 +81,15 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 
 # blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
 # blog_name: # your blog must have a name for it to show up in the nav bar
-blog_description: Archives from 2017-19.
-permalink: /blog/:year/:title/
+# blog_description: Archives from 2017-19.
+# permalink: /blog/:year/:title/
 
 # Pagination
 pagination:
   enabled: true
 
 # Comments
-disqus_shortname: mukulkhanna # put your disqus shortname
+# disqus_shortname: mukulkhanna # put your disqus shortname
 
 # -----------------------------------------------------------------------------
 # Collections
