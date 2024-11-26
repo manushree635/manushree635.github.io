@@ -26,7 +26,7 @@ Worked on developing a tool to evaluate instruction and user intent following ca
   Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
 
 
-  Working on mulitmodal LLMs to integrate images, videos, audio and text.
+  Working on generalist mulitmodal LLMs to integrate images, audio and text.
 
 
 ---
@@ -52,7 +52,7 @@ Worked on developing a tool to evaluate instruction and user intent following ca
 - ##### Research Intern -- <span style="font-weight:400">[Artificial Intelligence and Robotics Lab](https://aero.iisc.ac.in/people/suresh-sundaram/)</span>, IISc Bangalore <img src="https://iisc.ac.in/wp-content/uploads/2018/03/IISc-logo.jpg" width="75px" align="right" style="margin:15px">
   
   [Sep 2021 - Jun 2022]
-  
+
 
   Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
 
