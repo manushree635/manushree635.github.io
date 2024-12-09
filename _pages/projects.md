@@ -8,16 +8,6 @@ display_categories: [work, fun]
 horizontal: true
 ---
 
-- ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.adobe.com/federal/assets/svgs/adobe-logo.svg" width="50px" style="margin:15px" align="right">
-  
-[Jun 2024 - Aug 2024]
-
-Advisor: [Balaji Krishnamurthy](https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en)
-
-
-Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
-
----
 
 - ##### Graduate Student Researcher -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
   
@@ -30,6 +20,19 @@ Worked on developing a tool to evaluate instruction and user intent following ca
 
 
 ---
+
+
+- ##### ML Research Intern -- <span style="font-weight:400">[Adobe](https://www.adobe.com)</span> <img src="https://www.adobe.com/federal/assets/svgs/adobe-logo.svg" width="50px" style="margin:15px" align="right">
+  
+  [Jun 2024 - Aug 2024]
+
+  Advisor: [Balaji Krishnamurthy](https://scholar.google.com/citations?user=n8iUBg8AAAAJ&hl=en)
+
+
+  Worked on developing a tool to evaluate instruction and user intent following capabiliites of LLMs for complex prompts
+
+---
+
 - ##### ML Intern -- <span style="font-weight:400">[Neural Garage](https://visualdub.in/)</span><img src="https://visualdub.in/svg/main-logo.svg" width="60px" align="right" style="margin:15px">
   
   [Feb 2023 - Jun 2023]
@@ -57,7 +60,7 @@ Worked on developing a tool to evaluate instruction and user intent following ca
   Advisors: [Prof. Suresh Sundaram](https://scholar.google.com/citations?hl=en&user=5iAMbhMAAAAJ) and [Dr. Chandan Gautam](https://scholar.google.com/citations?hl=en&user=G-e_OoIAAAAJ)
 
   
- Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
+  Worked on zero-shot domain generalization in vision, continual zero-shot learning for text classification and on improving robustness for open-set detection.
 
 ---
 
