@@ -9,14 +9,25 @@ horizontal: true
 ---
 
 
-- ##### Graduate Student Researcher -- <span style="font-weight:400">[Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
-  
-  [Aug 2023 - Present]
-  
-  Thesis Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
+- ##### Graduate Research Assistant -- <span style="font-weight:400">[Boston University](https://www.bu.edu/)</span>
+
+  [Sep 2025 - Present]
+
+  Advisor: [Prof. Deepti Ghadiyaram](https://deeptigp.github.io/)
 
 
-  Working on generalist mulitmodal LLMs to integrate images, audio and text.
+  Working on a cross-resolution latent distillation framework that improves fine-grained detail reconstruction in variational autoencoders.
+
+---
+
+- ##### Graduate Student Researcher -- <span style="font-weight:400">[SHI Labs, Georgia Tech](https://www.gatech.edu/)</span> <img src="https://brand.gatech.edu/sites/default/files/inline-images/GTVertical_RGB.png" width="70px" style="margin:15px" align="right">
+  
+  [Aug 2023 - May 2025]
+  
+  Thesis Advisors: [Humphrey Shi](https://www.humphreyshi.com/) and [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)
+
+
+  Built generalist multimodal LLMs spanning image, audio, and video, and improved the smoothness of diffusion model latent spaces ([Smooth Diffusion](https://shi-labs.github.io/Smooth-Diffusion/), CVPR 2024).
 
 
 ---
@@ -44,11 +55,11 @@ horizontal: true
 
 - ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://research.ibm.com/_next/static/media/IBM-8bar-logo--h23.8bbea713.svg" width="70px" style="margin:15px" align="right">
   
-  [Jun 2022 - Aug 2022]
+  [Jun 2022 - Sep 2022]
   
   Advisor: [Dr. Diptikalyan Saha](https://scholar.google.com/citations?hl=en&user=epwtlHgAAAAJ) 
 
-  Worked on interpretability repair of ML models and porting explanations from a targel model
+  Worked with the Trusted AI team on interpretability repair of ML models, porting explanations from a target model onto an already-deployed model according to user needs.
 
 ---
 
