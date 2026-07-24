@@ -1,0 +1,305 @@
+%-------------------------
+% Resume in Latex
+% Based on: Jake Gutierrez / https://github.com/sb2nov/resume
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{amssymb}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\usepackage{hyperref}
+\hypersetup{colorlinks=true, linkcolor=blue, filecolor=magenta, urlcolor=blue}
+\usepackage{iftex}
+\ifpdftex
+  \input{glyphtounicode}
+  \pdfgentounicode=1
+\fi
+
+%----------FONT OPTIONS----------
+\usepackage[default]{sourcesanspro}
+
+\pagestyle{fancy}
+\fancyhf{}
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\huge \textbf{Manushree Vasu}} \\ \vspace{4pt}
+    \normalsize
+    +1 (404) 451-9763 \, $\diamond$ \,
+    \href{mailto:manushree635@gmail.com}{manushree635@gmail.com}
+    \\ \vspace{2pt}
+    \href{https://www.linkedin.com/in/v-manushree}{LinkedIn} \, $\diamond$ \,
+    \href{https://github.com/manushree635}{GitHub} \, $\diamond$ \,
+    \href{https://scholar.google.com/citations?user=-PdDL2EAAAAJ&hl=en}{Google Scholar}
+\end{center}
+
+%-------------RESEARCH INTERESTS---------------
+\vspace{-.2cm}
+\section{Research Interests}
+\begin{itemize}[leftmargin=0.15in, label={}]
+    \item\small{Representation Learning, Generative Models, Multimodal Learning,  Vision Language Models, Interpretability}
+\end{itemize}
+
+%-----------EDUCATION-----------
+\vspace{-.2cm}
+\section{Education}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {Boston University}{Boston, MA, USA}
+      {Ph.D. in Computer Science}{2025 -- Present}
+      \resumeItemListStart
+        \resumeItem{Advisor: \href{https://deeptigp.github.io/}{Prof. Deepti Ghadiyaram}}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Georgia Institute of Technology}{Atlanta, GA, USA}
+      {M.S. in Computer Science}{2023 -- 2025}
+      \resumeItemListStart
+        \resumeItem{Thesis: \textit{Extending Multimodal Large Language Models Beyond Single Modality} \textcolor{red}{[T1]}}
+        \resumeItem{Advisors: \href{https://www.humphreyshi.com/}{Prof. Humphrey Shi}, \href{https://faculty.cc.gatech.edu/~judy/}{Prof. Judy Hoffman}}
+      \resumeItemListEnd
+
+    \resumeSubheading
+      {Manipal Institute of Technology}{Manipal, India}
+      {B.Tech in Computer Science and Engineering}{2019 -- 2023}
+
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Research Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+        {Boston University}{Sep 2025 -- Present}
+        {Graduate Research Assistant $|$ Advisor: \href{https://deeptigp.github.io/}{Prof. Deepti Ghadiyaram}}{}
+        \resumeItemListStart
+          \resumeItem{Developed a cross-resolution  distillation framework that enhances fine-grained image reconstruction in variational autoencoders by leveraging information from high-resolution teacher latents to low-resolution student latents. \textcolor{red}{[W1]}}
+          \resumeItem{Designed a frequency-aware supervision objective that complements conventional pixel and perceptual losses by explicitly preserving high-frequency image details, enabling improved reconstruction quality.}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {SHI Labs, Georgia Institute of Technology}{Aug 2023 -- May 2025}
+        {Graduate Student Researcher $|$ Advisor: \href{https://www.humphreyshi.com/}{Prof. Humphrey Shi}}{}
+        \resumeItemListStart
+          \resumeItem{Improved the smoothness of diffusion model latent spaces, yielding gains on editing and interpolation tasks. \textcolor{red}{[C2]}}
+          \resumeItem{Built generalist MLLMs spanning image, audio, and video, and characterized cross-modal interaction and interference. \textcolor{red}{[T1]}}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Adobe Research, India}{Jun 2024 -- Aug 2024}
+        {Research Intern $|$ Advisor: \href{https://scholar.google.com/citations?user=n8iUBg8AAAAJ\&hl=en}{Balaji Krishnamurthy}}{}
+        \resumeItemListStart
+          \resumeItem{Evaluated alignment between user intent and LLM output under complex, multi-requirement prompts, and built a tool that attributes misalignment to specific prompt components. \textcolor{red}{[C1]}}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {Neural Garage, Bangalore, India}{Feb 2023 -- Jun 2023}
+        {Machine Learning Intern $|$ \href{https://drive.google.com/file/d/1qpep91M-2Fofa21jRisp-LKZmBKEbqdC/view?usp=sharing}{Report} $|$ \href{https://drive.google.com/file/d/10m9iA4oW8vqGOi_5-hwhnyX5G5hZqoUZ/view?usp=sharing}{Recommendation}}{}
+        \resumeItemListStart
+          \resumeItem{Developed the voice-cloning module for \href{https://visualdub.in/}{VisualDub}, applying text-to-speech synthesis across six languages, and improved existing lip-sync architectures by synthesizing neutral-expression videos.}
+        \resumeItemListEnd
+
+    \resumeSubheading
+        {IBM Research, Bangalore, India}{Jun 2022 -- Sep 2022}
+        {Summer Research Intern $|$ Advisor: \href{https://scholar.google.co.in/citations?user=epwtlHgAAAAJ\&hl=en}{Dr. Diptikalyan Saha} $|$ \href{https://drive.google.com/file/d/1yIbO2-HFf9BWnyeZ9uX7RMG3jdqk0Fba/view?usp=sharing}{Report}}{}
+        \resumeItemListStart
+          \resumeItem{Worked with the Trusted AI team on interpretability repair of ML models, porting explanations from a target model onto an already-deployed model according to user needs.}
+        \resumeItemListEnd
+
+  \resumeSubHeadingListEnd
+
+%------------------------------------
+% PUBLICATIONS
+%------------------------------------
+\section{Publications}
+\vspace{-0.3em}
+{\hfill\small\textit{$*$ denotes equal contribution}}
+\vspace{-15pt}
+
+\subsection*{\normalsize Thesis}
+\vspace{-6pt}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{T1. Extending Multimodal Large Language Models Beyond Single Modality}{}
+{M.S. Thesis, Georgia Tech $|$ \href{https://repository.gatech.edu/server/api/core/bitstreams/6f47c688-e55b-4e1e-b60e-531e0f963393/content}{Thesis} $|$ Advisors: \href{https://www.humphreyshi.com/}{Prof. Humphrey Shi}, \href{https://faculty.cc.gatech.edu/~judy/}{Prof. Judy Hoffman}}{}
+\resumeItemListStart
+  \resumeItem{Designed a lightweight, jointly-trained 7B multimodal LLM that outperforms larger specialist and generalist models on vision and audio benchmarks by reducing cross-modal interference through a simplified architecture and curated data.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{-4pt}
+\subsection*{\normalsize Conference Papers}
+\vspace{-6pt}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{C1. CoPrompter: User-Centric Evaluation of LLM Instruction Alignment for Improved Prompt Engineering}{}
+{\textbf{IUI 2025} $|$ \href{https://arxiv.org/abs/2411.06099}{Paper}}{}
+\resumeItemListStart
+  \resumeItem{\textit{\textbf{Manushree Vasu}$*$, et al.}}
+  \resumeItem{Automated the detection of misalignment in complex task instructions, enabling fine-grained assessment of the instruction-following ability of LLMs across individual prompt components.}
+\resumeItemListEnd
+
+\resumeSubheading
+{C2. Smooth Diffusion: Crafting Smooth Latent Spaces in Diffusion Models}{\emph{Poster}}
+{\textbf{CVPR 2024} $|$ \href{https://openaccess.thecvf.com/content/CVPR2024/html/Guo_Smooth_Diffusion_Crafting_Smooth_Latent_Spaces_in_Diffusion_Models_CVPR_2024_paper.html}{Paper} $|$ \href{https://github.com/SHI-Labs/Smooth-Diffusion}{GitHub} $|$ \href{https://shi-labs.github.io/Smooth-Diffusion/}{Website}}{}
+\resumeItemListStart
+  \resumeItem{\textit{Jiayi Guo, Xingqian Xu, Yifan Pu, Zanlin Ni, Chaofei Wang, \textbf{Manushree Vasu}, Shiji Song, Gao Huang, Humphrey Shi}}
+  \resumeItem{Exposed the non-smoothness of diffusion latent spaces and introduced a class of diffusion models that are both smooth and high-performing at multiple downstream tasks such as image editing, interpolation, etc.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\vspace{-4pt}
+\subsection*{\normalsize Workshop Papers}
+\vspace{-6pt}
+
+\resumeSubHeadingListStart
+
+    \resumeSubheading
+        {W1. SHARP-VAE: Steerable High-Frequency-Aware Reconstruction Preservation for VAEs}{}
+        {WiML Workshop, \textbf{ICML 2026} \enspace|\enspace
+        Advisors: \href{https://deeptigp.github.io/}{Prof.~Deepti Ghadiyaram} , \href{https://vicky.kalogeiton.info/}{Prof. Vicky Kalogeiton}}{}
+
+    \resumeItemListStart
+        \resumeItem{Proposed a cross-resolution distillation framework that transfers high-frequency information from high-resolution latent representations to low-resolution VAEs, improving fine-grained detail reconstruction.}
+    \resumeItemListEnd
+
+\resumeSubheading
+{W2. Efficient Gender Debiasing of Pre-trained Indic Language Models}{\emph{Proceedings}}
+{Workshop on Deployable AI at \textbf{AAAI 2023} $|$ \href{https://arxiv.org/abs/2209.03661}{Paper} $|$ \href{https://github.com/manushree635/mitigating_bias}{Code}}{}
+\resumeItemListStart
+  \resumeItem{\textit{Neeraja Kirtane$*$, \textbf{Manushree Vasu}$*$, Aditya Kane$*$}}
+  \resumeItem{Quantified association bias between profession and gender in Indic-language models, and mitigated it by efficiently fine-tuning on a novel dataset.}
+\resumeItemListEnd
+
+\resumeSubheading
+{W3. Continual Visual Question Answering for Disaster Response Systems}{\emph{Poster}}
+{Tackling Climate Change with Machine Learning at \textbf{NeurIPS 2022} $|$ \href{https://arxiv.org/abs/2209.10320}{Paper} $|$ \href{https://github.com/manushree635/continual_vqa}{Code}}{}
+\resumeItemListStart
+  \resumeItem{\textit{Aditya Kane$*$, \textbf{Manushree Vasu}$*$, Sahil Khose$*$}}
+  \resumeItem{Developed a continual-learning setup for visual question answering in disaster response using experience replay, and analyzed zero-shot CLIP performance against supervised training on pre-trained CLIP embeddings.}
+\resumeItemListEnd
+
+\resumeSubheading
+{W4. Extraction of Color Information from Images for Generation of Colored Outlines and Sketches}{\textcolor{red}{\emph{\textbf{Oral}}}}
+{MLCD, DGM, CtrlGen, and New in ML at \textbf{NeurIPS 2021} $|$ \href{https://arxiv.org/abs/2108.11554}{Paper} $|$ \href{https://github.com/manushree635/XCI-Sketch}{Code}}{}
+\resumeItemListStart
+  \resumeItem{\textit{\textbf{Manushree Vasu}$*$, Sameer Saxena$*$, Parna Chowdhury$*$, M Varma$*$, Harsh Rathod$*$, Ankita Ghosh, Sahil Khose}}
+  \resumeItem{Developed a modified conditional GAN for colored-sketch generation and an unsupervised k-means approach for rendering colored outlines from images.}
+\resumeItemListEnd
+
+\resumeSubheading
+{W5. A Studious Approach to Semi-Supervised Learning}{\emph{Poster}}
+{ICBINB at \textbf{NeurIPS 2021} $|$ \href{https://arxiv.org/abs/2109.08924}{Paper} $|$ \href{https://github.com/manushree635/studious_ssl}{Code}}{}
+\resumeItemListStart
+  \resumeItem{\textit{Sahil Khose$*$, Shruti Jain$*$, \textbf{Manushree Vasu}$*$}}
+  \resumeItem{Ran an ablation study of distillation for real-time deployment in a semi-supervised setting on CIFAR-10, comparing EfficientNet-b5, ResNet18, and MobileNet-V3-Large across four label splits to quantify the benefit of model compression.}
+\resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+%-----------TEACHING-----------
+\section{Teaching}
+\resumeSubHeadingListStart
+\resumeSubheading
+  {\href{https://www.humphreyshi.com/vision}{Computer Vision (CS 6476 / 4476)}, Georgia Institute of Technology}{Fall 2023 -- Spring 2025}
+  {Head Teaching Assistant $|$ Instructor: Prof. Humphrey Shi}{4 semesters}
+  \resumeItemListStart
+    \resumeItem{Led the teaching staff across four semesters: coordinated grading, designed and revised assignments, and held weekly office hours.}
+  \resumeItemListEnd
+\resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Selected Projects}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+  {Assessing the Visual Capacity of Vision-Language Models}{\href{https://drive.google.com/file/d/1HMdkUYNzpSa0BWXzgzivMYy7QCaX03Ij/view?usp=sharing}{Report}}
+  {Advanced Computer Vision $|$ Instructor: \href{https://faculty.cc.gatech.edu/~hays/}{Prof. James Hays}}{Spring 2024}
+  \resumeItemListStart
+    \resumeItem{Analyzed the visual components of MLLMs, focusing on the alignment of visual features to the language model and measuring robustness to visual perturbations such as augmentations and pixel attacks.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Machine Unlearning with Selective Task Arithmetic and LoRA}{\href{https://www.youtube.com/watch?v=I7czqbN_k90}{Video}}
+  {Machine Learning with Limited Supervision $|$ Instructor: \href{https://faculty.cc.gatech.edu/~judy/}{Prof. Judy Hoffman}}{Fall 2023}
+  \resumeItemListStart
+    \resumeItem{Developed a method using the Fisher information matrix to selectively update task vectors of pre-trained models, retaining overall performance while forgetting targeted data, and adapted LoRA for efficient forgetting of small sample sets in both text and vision.}
+  \resumeItemListEnd
+
+\resumeSubheading
+  {Out-of-Distribution Detection using XAI Techniques for ViTs}{\href{https://drive.google.com/file/d/1pD-prxcAQAS9vdKYo1tovT_I8l9nD5WT/view?usp=sharing}{Report}}
+  {Explainable AI $|$ Instructor: \href{https://faculty.cc.gatech.edu/~chernova/}{Prof. Sonia Chernova}}{Fall 2023}
+  \resumeItemListStart
+    \resumeItem{Developed a weighted locality-score method using attention flow and gradient attention maps to detect out-of-distribution samples for Vision Transformers.}
+  \resumeItemListEnd
+
+\resumeSubHeadingListEnd
+
+\end{document}
