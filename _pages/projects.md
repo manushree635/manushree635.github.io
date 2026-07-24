@@ -24,7 +24,9 @@ horizontal: true
   
   [Aug 2023 - May 2025]
   
-  Thesis Advisors: [Humphrey Shi](https://www.humphreyshi.com/) and [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)
+  Advisor: [Humphrey Shi](https://www.humphreyshi.com/)
+
+  Closely worked with: [Judy Hoffman](https://faculty.cc.gatech.edu/~judy/)
 
 
   Built generalist multimodal LLMs spanning image, audio, and video, and improved the smoothness of diffusion model latent spaces ([Smooth Diffusion](https://shi-labs.github.io/Smooth-Diffusion/), CVPR 2024).
