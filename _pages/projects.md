@@ -9,7 +9,7 @@ horizontal: true
 ---
 
 
-- ##### Graduate Research Assistant -- <span style="font-weight:400">[Boston University](https://www.bu.edu/)</span>
+- ##### Graduate Research Assistant -- <span style="font-weight:400">[Boston University](https://www.bu.edu/)</span> <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="90px" style="margin:15px" align="right">
 
   [Sep 2025 - Present]
 
@@ -53,7 +53,7 @@ horizontal: true
 
 ---
 
-- ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://research.ibm.com/_next/static/media/IBM-8bar-logo--h23.8bbea713.svg" width="70px" style="margin:15px" align="right">
+- ##### Research Intern -- <span style="font-weight:400">[IBM Research](https://research.ibm.com/labs/india)</span> <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="70px" style="margin:15px" align="right">
   
   [Jun 2022 - Sep 2022]
   
